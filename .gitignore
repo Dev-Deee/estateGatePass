@@ -28,3 +28,16 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+# added during cleanup
+*.class
+__pycache__/
+*.pyc
+target/
+.env
+.env.local
+node_modules/
+.next/
+tmp/
+*.bak
+.idea/
+*.iml

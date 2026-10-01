@@ -25,6 +25,7 @@ class GateAccessServiceTest {
 
     @Autowired
     GateAccessService service;
+
     @Autowired
     ResidentRepo residentRepo;
 
